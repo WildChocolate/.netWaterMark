@@ -1,0 +1,8 @@
+c:\users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\bin\Debug\ffmpeg水印.exe.config
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\bin\Debug\ffmpeg水印.exe
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\bin\Debug\ffmpeg水印.pdb
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\obj\Debug\ffmpeg水印.Form1.resources
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\obj\Debug\ffmpeg水印.Properties.Resources.resources
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\obj\Debug\ffmpeg水印.csproj.GenerateResource.Cache
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\obj\Debug\ffmpeg水印.exe
+C:\Users\xuzhicheng\documents\visual studio 2013\Projects\ffmpeg水印\ffmpeg水印\obj\Debug\ffmpeg水印.pdb
